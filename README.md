@@ -92,3 +92,6 @@ slowcommit --help
 ## License
 
 MIT. The model is distributed separately; review its own license and terms before use.
+
+## Local demo
+Testing staged changes with the local AI model.
